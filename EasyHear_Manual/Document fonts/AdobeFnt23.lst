@@ -11,7 +11,7 @@ FullName:Bree Serif Bold
 MenuName:Bree Serif
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\Users\Bill\Desktop\EasyHear_Manual\Document fonts\Bree Serif Bold.otf
+OutlineFileName:G:\AAH\Git\HCRA Manual\EasyHear_Manual\Document fonts\Bree Serif Bold.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -38,7 +38,7 @@ FullName:Bree Serif
 MenuName:Bree Serif
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Bill\Desktop\EasyHear_Manual\Document fonts\BreeSerif-Regular.ttf
+OutlineFileName:G:\AAH\Git\HCRA Manual\EasyHear_Manual\Document fonts\BreeSerif-Regular.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -61,7 +61,7 @@ FullName:Merriweather Bold
 MenuName:Merriweather
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\Users\Bill\Desktop\EasyHear_Manual\Document fonts\Merriweather-Bold.ttf
+OutlineFileName:G:\AAH\Git\HCRA Manual\EasyHear_Manual\Document fonts\Merriweather-Bold.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -85,7 +85,7 @@ FullName:Merriweather
 MenuName:Merriweather
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Bill\Desktop\EasyHear_Manual\Document fonts\Merriweather-Regular.ttf
+OutlineFileName:G:\AAH\Git\HCRA Manual\EasyHear_Manual\Document fonts\Merriweather-Regular.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -109,7 +109,7 @@ FullName:Minion Pro Bold
 MenuName:Minion Pro
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\Users\Bill\Desktop\EasyHear_Manual\Document fonts\MinionPro-Bold.otf
+OutlineFileName:G:\AAH\Git\HCRA Manual\EasyHear_Manual\Document fonts\MinionPro-Bold.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -135,7 +135,7 @@ FullName:Montserrat Bold
 MenuName:Montserrat
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\Users\Bill\Desktop\EasyHear_Manual\Document fonts\Montserrat-Bold.ttf
+OutlineFileName:G:\AAH\Git\HCRA Manual\EasyHear_Manual\Document fonts\Montserrat-Bold.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -158,7 +158,7 @@ FullName:Montserrat Medium
 MenuName:Montserrat Medium
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Bill\Desktop\EasyHear_Manual\Document fonts\Montserrat-Medium.ttf
+OutlineFileName:G:\AAH\Git\HCRA Manual\EasyHear_Manual\Document fonts\Montserrat-Medium.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -182,7 +182,7 @@ FullName:Montserrat Regular
 MenuName:Montserrat
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Bill\Desktop\EasyHear_Manual\Document fonts\Montserrat-Regular.ttf
+OutlineFileName:G:\AAH\Git\HCRA Manual\EasyHear_Manual\Document fonts\Montserrat-Regular.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -205,7 +205,7 @@ FullName:Montserrat SemiBold
 MenuName:Montserrat SemiBold
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Bill\Desktop\EasyHear_Manual\Document fonts\Montserrat-SemiBold.ttf
+OutlineFileName:G:\AAH\Git\HCRA Manual\EasyHear_Manual\Document fonts\Montserrat-SemiBold.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -229,7 +229,7 @@ FullName:Calibri
 MenuName:Calibri
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Bill\Desktop\EasyHear_Manual\Document fonts\calibri_0.ttf
+OutlineFileName:G:\AAH\Git\HCRA Manual\EasyHear_Manual\Document fonts\calibri_0.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -252,7 +252,7 @@ FullName:Calibri Light Italic
 MenuName:Calibri Light
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:C:\Users\Bill\Desktop\EasyHear_Manual\Document fonts\calibrili_0.ttf
+OutlineFileName:G:\AAH\Git\HCRA Manual\EasyHear_Manual\Document fonts\calibrili_0.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
